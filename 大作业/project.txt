@@ -1,0 +1,5 @@
+Project:
+    Create a repo named as "MyList" on your Github. Write a program
+    according to the requirements in mylist.cpp -- DDL: 2015/06/12 23:59:59
+
+    ** NO CHINESE in code 
